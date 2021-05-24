@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
-   
+   <img src="../assets/unnamed.jpg" alt="Erica’s Cleaning Services LLC">
+
   </div>
 </template>
 
